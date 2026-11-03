@@ -1,0 +1,5 @@
+room_type,listings,median_price,median_estimated_revenue,mean_estimated_revenue,median_estimated_occupancy,median_reviews_ltm
+Entire home/apt,11335,230.0,13744.0,24628.22408469343,60.0,3.0
+Private room,5344,81.0,2908.0,9914.928517964072,48.0,2.0
+Hotel room,58,405.645,45743.5,51594.34482758621,114.0,19.0
+Shared room,23,99.0,1134.0,7897.304347826087,6.0,1.0
